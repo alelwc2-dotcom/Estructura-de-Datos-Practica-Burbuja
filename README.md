@@ -13,5 +13,5 @@ Implementación en Java del método de ordenamiento interno **Burbuja (Bubble So
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/alelwc2-dotcom/Estructura-de-Datos-Practica-Burbuja.git](https://github.com/alelwc2-dotcom/Estructura-de-Datos-Practica-Burbuja.git)
-   cd Estructura-de-Datos-Practica-Burbuja
+git clone https://github.com/alelwc2-dotcom/Estructura-de-Datos-Practica-Burbuja.git
+cd Estructura-de-Datos-Practica-Burbuja
